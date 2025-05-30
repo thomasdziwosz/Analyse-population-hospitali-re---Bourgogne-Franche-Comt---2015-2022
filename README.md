@@ -14,4 +14,4 @@ Analyser les patients ayant fréquentés les hopitaux de la région Bourgogne Fr
 2. Visualisation dynamique avec filtres par pathologies/département/sexe/âge
 
 ## 🔍 Aperçu du dashboard
-![dashboard](./screenshots/dashboard1.png)
+![dashboard](https://github.com/thomasdziwosz/Analyse-population-hospitali-re---Bourgogne-Franche-Comt---2015-2022/blob/main/screenshot_dashboard_analyse_population_hopistaliere_bourgogne.png)
